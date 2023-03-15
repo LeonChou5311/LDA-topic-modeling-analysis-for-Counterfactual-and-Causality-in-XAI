@@ -1,4 +1,7 @@
 # Counterfactuals and causability in explainable artificial intelligence: Theory, algorithms, and applications
+
+<img width="737" alt="Screen Shot 2023-03-15 at 5 42 22 pm" src="https://user-images.githubusercontent.com/48231558/225239961-64cd8b42-5bba-43cc-9785-b90bf522ea49.png">
+
 This project involves a review of the literature on counterfactuals and causality in Explainable Artificial Intelligence (XAI). The review was conducted using several text mining techniques, including topic modelling analysis with the Latent Dirichlet Allocation (LDA) algorithm.
 
 The paper resulting from this project has been published in Q1 Journal "Information Fusion".
@@ -17,6 +20,7 @@ In this project, text mining techniques were applied to the title, abstract, and
 
 LDA model output
 Fig. 4: LDA model output. Inter-topic distance showing the marginal topic distributions (left) and the top 10 most relevant terms for each topic.
+<img width="739" alt="Screen Shot 2023-03-15 at 5 41 52 pm" src="https://user-images.githubusercontent.com/48231558/225239877-0aa60429-371a-494a-bc25-2f66709c9285.png">
 
 The LDA model's output is illustrated in Fig. 4 in the article, with the inter-topic distance showing the marginal topic distributions (left) and the top 10 most relevant terms for each topic. Analysing Fig. 4, Topic 1 contained all the words that are of interest to the research questions proposed in this survey paper: explainability, causality, and artificial intelligence. Topic 2 captured words primarily related to data management and technology, while Topic 3 contained words related to the human aspect of explainable AI, such as cognition, mental, and human. Finally, Topic 4 contained words associated with XAI in healthcare. For this survey paper, publications classified as either Topic 1 or Topic 3 were selected.
 
